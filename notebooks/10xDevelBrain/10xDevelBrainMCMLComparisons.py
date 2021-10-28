@@ -54,10 +54,10 @@ os.system("pip install --quiet scanpy==1.6.0 --no-cache-dir")
 os.system("pip3 install --quiet scvi-tools --no-cache-dir")
 
 
-os.system("git clone https://github.com/pachterlab/CBP_2021.git")
+os.system("git clone https://github.com/pachterlab/CBP_2022.git")
 
-#os.chdir("/content/CBP_2021/scripts")
-sys.path.append('./CBP_2021/scripts/')
+#os.chdir("/content/CBP_2022/scripts")
+sys.path.append('./CBP_2022/scripts/')
 
 import anndata 
 import pandas as pd
