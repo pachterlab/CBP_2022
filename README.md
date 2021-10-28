@@ -1,6 +1,6 @@
 # CBP_2022
 
-Notebooks for reproducing all MCML figures and analysis for single-cell datasets.
+Notebooks for reproducing all MCML figures and analysis of single-cell datasets.
 
 ## Getting Started
 
