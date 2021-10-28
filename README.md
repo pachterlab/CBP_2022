@@ -1,6 +1,6 @@
-# CBP_2021
+# CBP_2022
 
-Notebooks for reproducing all figures and analysis in the *The Specious Art of Single-Cell Genomics* [preprint](https://www.biorxiv.org/content/10.1101/2021.08.25.457696v1).
+Notebooks for reproducing all MCML figures and analysis for single-cell datasets.
 
 ## Getting Started
 
@@ -12,18 +12,16 @@ All saved/processed data used for analysis is streamed to the notebooks from [Ca
 
 ## Related Links
 
-[Github for Picasso Algorithm](https://github.com/pachterlab/picasso): Provides examples for running Picasso on matrices.
-
 [Github for MCML Package](https://github.com/pachterlab/MCML): Package for running MCML algorithms and quantitative analysis on labeled data/matrices.
 
 
 ## Notebooks Directory Contents
 
 1) **notebooks**
-  - Picasso and MCML analysis notebooks from which Figures were generated for each dataset used.
+  - MCML analysis notebooks from which Figures were generated for each dataset used.
 
 2) **scripts** 
-  - Python scripts for MCML and Picasso algorithms.
+  - Python scripts for MCML algorithms.
   - Python scripts for quantitative analysis of inter-/intra-distances and KNN metrics.
 
 3) **data**
@@ -31,9 +29,6 @@ All saved/processed data used for analysis is streamed to the notebooks from [Ca
 
 4) **env**
   - Conda environments (yml) for MACOS and Linux. Replicates Colab environment.
-
-5) **figures**
-  - Figures generated for Supplementary Figure 1 (PCA of simplices).
 
 
 
